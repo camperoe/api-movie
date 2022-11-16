@@ -1,0 +1,19 @@
+{
+  "name": "api-movie",
+  "version": "1.0.0",
+  "description": "API the movie",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/camperoe/api-movie.git"
+  },
+  "author": "Edwin Campero",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/camperoe/api-movie/issues"
+  },
+  "homepage": "https://github.com/camperoe/api-movie#readme"
+}
